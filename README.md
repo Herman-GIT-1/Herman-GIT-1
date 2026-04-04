@@ -33,8 +33,8 @@ Data Engineering · Backend · BI
 
 ##### 📫 Contact
 📧 hermanpolianskyi@gmail.com  
-💼 LinkedIn  
-🐙 GitHub  
+💼 www.linkedin.com/in/herman-polianskyi-8843bb386 
+ 
 
 ---
 
