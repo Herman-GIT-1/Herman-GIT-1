@@ -5,7 +5,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 Python · SQL · Java  
 Flask · REST APIs · SQLAlchemy  
 Power BI · DAX · Pandas  
@@ -13,25 +13,25 @@ PostgreSQL · MySQL · Oracle
 
 ---
 
-# 📌 Key Projects
+📌 Key Projects
 - 🤖 **Job Search Bot** — Python, PostgreSQL, AI (job matching & automation)  
 - 📊 **Sales Dashboard** — Power BI (data → insights)  
 - 🌐 **Backend App** — Flask + DB + API  
 
 ---
 
-# 🎯 Focus
+🎯 Focus
 Data Engineering · Backend · BI  
 
 ---
 
-# ⚡ Fun fact:
+⚡ Fun fact:
 🏋️ Sport keeps me disciplined  
 🎨 Sculpting helps me stay creative  
 
 ---
 
-# 📫 Contact
+📫 Contact
 📧 hermanpolianskyi@gmail.com  
 💼 LinkedIn  
 🐙 GitHub  
