@@ -6,10 +6,10 @@
 ---
 
 #### 🛠️ Tech Stack
-Python · SQL · Java  
-Flask · REST APIs · SQLAlchemy  
-Power BI · DAX · Pandas  
-PostgreSQL · MySQL · Oracle  
+Python · SQL · Java · R · HTML/CSS
+Flask · REST APIs · SQLAlchemy · FastAPI
+Power BI · DAX · Alteryx · Pandas · Mathplotlib · NumPy · Scikit-learn
+PostgreSQL · MySQL · Oracle · SQLite 
 
 ---
 
