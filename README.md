@@ -14,7 +14,7 @@ PostgreSQL · MySQL · Oracle · SQLite
 ---
 
 ##### 📌 Key Projects
-- 🤖 **Job Search Bot** — Python, PostgreSQL, AI (job matching & automation)  
+- 🤖 **Job Search Bot** — Python, PostgreSQL, FastAPI, AI (job matching & automation)  
 - 📊 **Sales Dashboard** — Power BI (data → insights)  
 - 🌐 **Backend App** — Flask + DB + API  
 
